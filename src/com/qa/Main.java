@@ -26,5 +26,10 @@ public class Main {
                 c.getCentrePoint() + ", Area is: " + c.getArea());
         System.out.println(c2 + ", CentrePoint is: " +
                 c2.getCentrePoint() + ", Area is: " + c2.getArea());
+
+
+        System.out.println("Circle location before move: " + c.getCurrentLocation());
+        c.move(10.5, 4.3);
+        System.out.println("Circle location after move: " + c.getCurrentLocation());
     }
 }
