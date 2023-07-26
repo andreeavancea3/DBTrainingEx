@@ -3,6 +3,7 @@ package com.qa;
 public class TestBooks {
     public static void main(String[] args) {
         String[] arr = {"Mike", "Martina", "Peter"};
+
         Book b1 = new Book("title", arr, 10.99);
         Book b2 = new Book("title2", arr, 5.99);
         Book b3 = new Book("title3", arr, 1.00);
@@ -18,6 +19,5 @@ public class TestBooks {
         for (int x = 0; x < bookArray.length; x++){
             System.out.println(bookArray[x]);
         }
-
     }
 }
