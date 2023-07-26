@@ -1,1 +1,1 @@
-# DBTrainingEx2
+# DBTrainingJavaExercises
