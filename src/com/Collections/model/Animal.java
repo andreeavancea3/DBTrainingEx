@@ -1,4 +1,4 @@
-package com.qa2.model;
+package com.Collections.model;
 
 public abstract class Animal implements Comparable<Animal> {
     private String name;

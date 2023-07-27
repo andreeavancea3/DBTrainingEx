@@ -1,4 +1,4 @@
-package com.qa2.model;
+package com.Collections.model;
 
 public class Rabbit extends Animal{
     public Rabbit(String name, int age) {

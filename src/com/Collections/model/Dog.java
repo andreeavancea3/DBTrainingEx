@@ -1,4 +1,4 @@
-package com.qa2.model;
+package com.Collections.model;
 
 public class Dog extends Animal{
 

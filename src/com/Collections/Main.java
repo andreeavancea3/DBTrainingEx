@@ -1,10 +1,10 @@
 
-package com.qa2;
+package com.Collections;
 
-import com.qa2.model.Animal;
-import com.qa2.model.Cat;
-import com.qa2.model.Dog;
-import com.qa2.model.Rabbit;
+import com.Collections.model.Animal;
+import com.Collections.model.Cat;
+import com.Collections.model.Dog;
+import com.Collections.model.Rabbit;
 
 import java.util.ArrayList;
 import java.util.*;
